@@ -33,9 +33,9 @@ def my_form_post():
       return data
 
   def preprocess_data(text):
-        vocabulary_size=10000
+        vocabulary_size=7000
         onehot_representation=[one_hot(text, vocabulary_size)]
-        sentence_length=30
+        sentence_length=60
         embedded_documents=pad_sequences(onehot_representation, padding='pre', maxlen=sentence_length)
         return np.array(embedded_documents)
 
