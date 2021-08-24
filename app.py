@@ -25,7 +25,7 @@ def load_model(model_path):
   return model
 
 #load a trained  model 
-bert_model=load_model("20210819-104137-Bert_ass.h5")
+bert_model=load_model("20210823-150923-Bert_ass.h5")
 
 
 app = Flask(__name__)
