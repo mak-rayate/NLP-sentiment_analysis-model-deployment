@@ -42,7 +42,7 @@ def my_form_post():
     
   data = preprocess_data(text1)
   preds = model.predict(data)
-  if preds < 0.5:
+  if preds > 0.5:
       result = f'Status: not depressed || probability : {preds}'
   else:
       result = f'Status:depressed || probability : {preds}'
