@@ -1,7 +1,9 @@
 # NLP : text classification model creation using LSTM + deployment
 
-![image](https://user-images.githubusercontent.com/67750027/130950904-e097af26-a62e-46bb-89e4-03e979805ad3.png)
 
+#### Deployment Link : https://nlplstm.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/67750027/130950904-e097af26-a62e-46bb-89e4-03e979805ad3.png)
 
 Automatic text classification can be done in many different ways in machine learning as we have seen before.
 This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. We will use the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT).
@@ -27,6 +29,6 @@ This project aims to provide an example of how a Recurrent Neural Network (RNN) 
           accuracy                           0.82    320000
          macro avg       0.82      0.82      0.82    320000
       weighted avg       0.82      0.82      0.82    320000
-#### Deployment Link : https://nlplstm.herokuapp.com/
+
 
 #### Output Video : 
