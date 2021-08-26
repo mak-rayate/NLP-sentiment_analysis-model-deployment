@@ -1,4 +1,4 @@
-# NLP : text classification model creation using LSTM + deployment
+# NLP : Detection of depression and mental illness in Twitter using LSTM + deployment
 
 
 #### Deployment Link : https://nlplstm.herokuapp.com/
