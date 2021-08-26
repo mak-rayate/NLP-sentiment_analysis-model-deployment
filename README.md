@@ -29,6 +29,3 @@ This project aims to provide an example of how a Recurrent Neural Network (RNN) 
           accuracy                           0.82    320000
          macro avg       0.82      0.82      0.82    320000
       weighted avg       0.82      0.82      0.82    320000
-
-
-#### Output Video : 
