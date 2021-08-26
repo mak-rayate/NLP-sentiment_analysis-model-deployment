@@ -31,7 +31,7 @@ This project aims to provide an example of how a Recurrent Neural Network (RNN) 
          macro avg       0.82      0.82      0.82    320000
       weighted avg       0.82      0.82      0.82    320000
       
-### Output : ---------------------------------------------------------------------------------------------------
+### Output : ----------------------------------------------------------------------------------------------
 
 ##### input statement : "The Food is Excellent.The food is excellent, generous portions and great prices"
 
