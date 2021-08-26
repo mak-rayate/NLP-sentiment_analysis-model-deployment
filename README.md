@@ -1,4 +1,4 @@
-# NLP-Twitter_deployment
+# NLP : text classification model creation using LSTM + deployment
 
 Automatic text classification can be done in many different ways in machine learning as we have seen before.
 This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. We will use the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT).
