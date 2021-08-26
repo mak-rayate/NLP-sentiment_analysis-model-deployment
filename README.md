@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/67750027/130950904-e097af26-a62e-46bb-89e4-03e979805ad3.png)
 
 Automatic text classification can be done in many different ways in machine learning as we have seen before.
-This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. I have used the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT).
+This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. I have used the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT). If you have checked ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT) is excellent on data where as LSTM has some limitation. This repository is more focusing on deployment on Public URL.
 
 #### The Data :
       <class 'pandas.core.frame.DataFrame'>
@@ -29,3 +29,10 @@ This project aims to provide an example of how a Recurrent Neural Network (RNN) 
           accuracy                           0.82    320000
          macro avg       0.82      0.82      0.82    320000
       weighted avg       0.82      0.82      0.82    320000
+      
+### Output : --------------------------------------------------------------------------------------------------------------
+
+##### input statement : "The Food is Excellent.The food is excellent, generous portions and great prices"
+
+![Screenshot (523)](https://user-images.githubusercontent.com/67750027/130953326-361a31d4-7d34-4c8e-8598-a173f8b8ce6d.png)
+
