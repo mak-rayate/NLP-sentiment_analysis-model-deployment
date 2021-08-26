@@ -1,1 +1,29 @@
 # NLP-Twitter_deployment
+
+Automatic text classification can be done in many different ways in machine learning as we have seen before.
+This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. We will use the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT).
+
+#### The Data :
+      <class 'pandas.core.frame.DataFrame'>
+      RangeIndex: 1600000 entries, 0 to 1599999
+      Data columns (total 2 columns):
+       #   Column  Non-Null Count    Dtype 
+      ---  ------  --------------    ----- 
+       0   target  1600000 non-null  int32 
+       1   text    1600000 non-null  object
+      dtypes: int32(1), object(1)
+      memory usage: 18.3+ MB
+      
+      
+### Clasification Report
+                     precision    recall  f1-score   support
+
+                 0       0.83      0.81      0.82    159815
+                 1       0.81      0.83      0.82    160185
+
+          accuracy                           0.82    320000
+         macro avg       0.82      0.82      0.82    320000
+      weighted avg       0.82      0.82      0.82    320000
+#### Deployment Link : https://nlplstm.herokuapp.com/
+
+#### Output Video : 
