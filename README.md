@@ -1,4 +1,4 @@
-# NLP : Detection of depression and mental illness in Twitter using LSTM + deployment
+# NLP : Detection of depression and mental illness in Twitter using LSTM + Flask deployment
 
 
 #### Deployment Link : https://nlplstm.herokuapp.com/
@@ -6,7 +6,8 @@
 ![image](https://user-images.githubusercontent.com/67750027/130950904-e097af26-a62e-46bb-89e4-03e979805ad3.png)
 
 Automatic text classification can be done in many different ways in machine learning as we have seen before.
-This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. I have used the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT). If you have checked ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT) is excellent on data where as LSTM has some limitation. This repository is more focusing on deployment on Public URL.
+This project aims to provide an example of how a Recurrent Neural Network (RNN) using the Long Short Term Memory (LSTM) architecture can be implemented using Keras. I have used the same data source as we used in Text Classification using ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT). If you have checked ![BERT_model](https://github.com/mak-rayate/NLP-Sentiment_Analysis-using-BERT) is excellent on data where as LSTM has some limitation. 
+#### This repository is more focusing on model deployment task on Public URL.
 
 #### The Data :
       <class 'pandas.core.frame.DataFrame'>
